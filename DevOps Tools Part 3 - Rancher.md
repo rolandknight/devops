@@ -1,3 +1,5 @@
+# DevOps Tools Part 3 - Rancher
+
 ## Install Rancher
 
 1. Check that your docker version is supported [here](https://rancher.com/docs/rancher/v1.6/en/hosts/).
@@ -49,4 +51,3 @@
    to the far right and select **Delete**.
 
 ## Whats Next
-
