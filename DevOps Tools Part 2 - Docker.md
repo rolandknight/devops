@@ -18,7 +18,7 @@ Consider your entire VM to be Ephemeral - store all your data on external storag
 
 ### Windows 7/10
 
-1. Use the same ISO from the Bare Metal install above and spin it up in [Virtual Box](https://www.virtualbox.org/).
+1. Use the same ISO from the Bare Metal install above and spin it up in [Virtual Box](https://www.virtualbox.org/). Alternatively use the one stop shop [Docker Toolkit](https://docs.docker.com/toolbox/toolbox_install_windows/) (removing virtualbox and rebooting is recommended before installation).
 
 ### Windows 10 Pro
 
